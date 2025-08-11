@@ -1,4 +1,4 @@
-baseURL = "https://openksc.github.io"
+baseURL = "https://bookgh.github.io/website"
 
 enableRobotsTXT = true
 ignorefiles = [ ".*/_custom" ]
